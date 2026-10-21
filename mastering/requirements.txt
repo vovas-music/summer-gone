@@ -1,0 +1,5 @@
+matchering
+numpy
+soundfile
+scipy
+matplotlib  # spectrum.py's plot only; master.py does not need it
