@@ -7,7 +7,7 @@ On the site: https://vovazakharov.com/music/summer-gone
 ## Files
 
 - `summer-gone_mix.mp3` — the mix, unmastered, cut from the album file at 68.24 s.
-- `summer-gone.mp3` — the master, cut at the same point (V0).
+- `Полуживые - Лето прошло.mp3` — the master, cut at the same point (V0).
 - `mastering/` — the script that made the master: `master.py`, the `spectrum.py` it imports, and their `requirements.txt`.
 
 ## How it was mastered
